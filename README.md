@@ -8,13 +8,12 @@ Welcome to our repository! Here, we delve into the intricacies of neural network
 * Multivariable Calculus
 * Contributing
 
-* 🔄 Backpropagation
+**🔄 Backpropagation**
 Backpropagation is a fundamental algorithm in training neural networks. It helps in minimizing the error by adjusting the weights through gradient descent. Here's how it works:
 
 - Forward Pass: Compute the output of the neural network.
 - Calculate Error: Determine the difference between the predicted and actual values.
 - Backward Pass: Propagate the error back through the network, adjusting the weights to reduce the error.
-
 Key equations:
 𝛿
 =
