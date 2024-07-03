@@ -1,13 +1,13 @@
-🤖 Neural Networks and Advanced Calculus 📘
+# 🤖 Neural Networks and Advanced Calculus 📘
 Welcome to our repository! Here, we delve into the intricacies of neural networks and the advanced calculus that underpins their functionality. This guide covers essential topics like Backpropagation, the Hessian matrix, the Jacobian matrix, and Multivariable Calculus. Let's dive in! 🌊
 
 📚 Table of Contents
-Backpropagation
-Hessian Matrix
-Jacobian Matrix
-Multivariable Calculus
-Contributing
-License
+* Backpropagation
+* Hessian Matrix
+* Jacobian Matrix
+* Multivariable Calculus
+* Contributing
+
 🔄 Backpropagation
 Backpropagation is a fundamental algorithm in training neural networks. It helps in minimizing the error by adjusting the weights through gradient descent. Here's how it works:
 
