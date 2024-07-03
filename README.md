@@ -14,34 +14,8 @@ Backpropagation is a fundamental algorithm in training neural networks. It helps
 - Forward Pass: Compute the output of the neural network.
 - Calculate Error: Determine the difference between the predicted and actual values.
 - Backward Pass: Propagate the error back through the network, adjusting the weights to reduce the error.
-Key equations:
-𝛿
-=
-∂
-Error
-∂
-Output
-δ= 
-∂Output
-∂Error
-​
- 
-Δ
-𝑤
-=
-−
-𝜂
-∂
-Error
-∂
-𝑤
-Δw=−η 
-∂w
-∂Error
-​
- 
 
-🟦 Hessian Matrix
+## 🟦 Hessian Matrix
 The Hessian matrix is a square matrix of second-order partial derivatives of a scalar-valued function. It's crucial in understanding the curvature of the function and optimizing algorithms.
 
 ## 🟧 Jacobian Matrix
